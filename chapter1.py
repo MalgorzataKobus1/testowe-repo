@@ -1,0 +1,2 @@
+info = " rozdzial 1"
+
